@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+
+<body>  
+<body style="background-color:#e8ffff;">
+<!-- navigation --> 
+ <nav>
+  <a href="#hjem" class="w3-button w3-bar-item">Hjem</a>
+  <a href="#fløyen" class="w3-button w3-bar-item">Fløyen</a>
+  <a href="#bergenhus festning" class="w3-button w3-bar-item">Bergenhus Festning</a>
+  <a href="#pepperkake byen" class="w3-button w3-bar-item">Pepperkake byen</a>
+  <a href="#bryggen" class="w3-button w3-bar-item">Bryggen</a>
+  <a href="#kontakt oss" class="w3-button w3-bar-item">Kontakt oss</a>
+</nav> 
+
+  <h1 class="w3-wide" style="font-size:100px;">VISIT BERGEN</h1>   
+  
+<picture>
+  <img src="https://www.exploreronabudget.com/wp-content/uploads/2017/05/Bryggen-Bergen_sm.jpg" style="width:800px;">
+ </picture>
+
+<section>
+  <p style="font-size:160%;"> Look around in the sister city of Seattle, Bergen.</p>
+  <p style="font-size:160%;">Beautiful sights, buildings, full of history and a lot of experiences.</p>   
+  
+</body>
+</html>
